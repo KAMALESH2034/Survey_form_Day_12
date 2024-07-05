@@ -1,3 +1,4 @@
-The task is create a simple survey form like in the samaple image.
+The task is create a simple survey form like the one in the samaple image.
+with using Bootstrap concept.
 
-Deployed url : https://majestic-khapse-ee6606.netlify.app/
+Front-end Deployed URL : https://majestic-khapse-ee6606.netlify.app/
